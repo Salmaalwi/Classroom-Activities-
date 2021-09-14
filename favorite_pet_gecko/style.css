@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Allison', cursive;
+}
+
+nav { background-color:lightgrey;
+        height:50px;    
+}
+.menu-item {
+display: inline-block;
+width: 150px;
+height: 30px;
+vertical-align: middle;
+text-align: center;
+background-color: rgb(118, 224, 118);
+color: ivory;
+padding-top: 20px;
+
+}
+
+.sidebar{
+width: 28%;
+background-color: lightgreen;
+float: Left;
+height: 1500px;
+padding: 2%;
+}
+
+.pet-name img {
+width: 150px;
+
+}
+
+.sidebar ul {
+list-style-type: none;
+
+}
+
+.main-content {
+
+
+
+    
+}

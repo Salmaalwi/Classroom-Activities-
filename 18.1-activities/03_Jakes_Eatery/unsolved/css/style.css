@@ -1,0 +1,89 @@
+/* Navigation styles */
+
+.logo {
+background: white;
+height: 23opx;
+background-image: url("../images/jakes-logo.png")
+background-repeat: no-repeat;
+background-position:center;
+
+}
+
+.nav {
+
+display: flex;    
+background-color: black;
+padding: 20px;
+
+}
+.left .center .right {
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.left .right {
+width: 25%;
+
+}
+
+
+.center {
+width: 50%;
+
+
+}
+
+.center a {
+color: blanchedalmond;
+padding: 10px;
+font-size: 18px;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+button{
+color: rgb(199, 61, 61);
+font-size: 16px;
+padding: 15px;
+
+}
+
+.right button {
+
+    background-color: blueviolet;
+}
+.left button{
+     background-color: cyan;
+}
+.meal1 .meal2 .meal3 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+
+}
+/* Column styles */
+
+.colum {
+    display: flex;
+    height: 1200px;
+    width: 800px;
+}
+
+.meal1 {
+    background-image: url();
+}
+
+
+.text {
+    background-color: rgb(0,0,0,7);
+    width: 100%;
+    padding: 20px 40px;
+    color: white;
+}
+
+/* Footer Styles */
+
