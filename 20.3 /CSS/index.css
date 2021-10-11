@@ -1,0 +1,21 @@
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 28px;
+}
+
+#hero{ 
+background-image:url(../images/) ;    
+background-repeat: no-repeat;
+height:88vh;
+background-size: cover;
+background-position: center;
+}
+
+.nav-link{
+color: white !important;
+
+}
+
+.nav-item.active{
+text-decoration: underline;
+}
